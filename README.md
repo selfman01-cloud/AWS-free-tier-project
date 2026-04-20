@@ -73,8 +73,9 @@
 **Services covered:** Amazon S3, EC2, IAM basics  
 **Proof:** https://github.com/selfman01-cloud/AWS-free-tier-project/blob/main/IMG_2052.jpeg?raw=true
 
-## ![AWS Builder Labs EC2 Certificate.
-**2.
+## ![AWS Builder Labs EC2 Certificate:  
+https://github.com/selfman01-cloud/AWS-free-tier-project/blob/main/IMG_2128.jpeg?raw=true
+
 
 **Key takeaways from this course:**
 1. **S3 basics:** Object storage for files, websites, backups. 11 9's durability.
