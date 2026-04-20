@@ -55,13 +55,13 @@
 
 **Connect:** Lagos, Nigeria | **WhatsApp:** +2347056217437
 
-**Certifications:**
+**CERTIFICATION:**
 
 ### AWS Skill Builder - Beginner Path
 **1. Getting Started with AWS Cloud Essentials** ✅ `Completed: Apr 19, 2026`  
 **Level:** Fundamental | **Duration:** 1h | **Rating:** 4.6/5  
 **Services covered:** Amazon S3, EC2, IAM basics  
-**Proof:** 
+**Proof:** https://github.com/selfman01-cloud/AWS-free-tier-project/blob/main/IMG_2052.jpeg?raw=true
 
 **Key takeaways from this course:**
 1. **S3 basics:** Object storage for files, websites, backups. 11 9's durability.
