@@ -20,10 +20,20 @@
 **Certification Exam:** Scheduled `May 1, 2026`
 
 ## 🛠️ Hands-On Evidence
-*Screenshots will be added after each Builder Lab*
+
+### Builder Lab 1: First EC2 Instance - Apr 20, 2026
+![EC2 Running](builder-labs/ec2-running.png)
+**Instance:** i-0b43aee4cd2c6b07c | **Name:** My web server | **Type:** t3.micro | **Region:** us-west-2  
+**Status:** 3/3 checks passed | **Account:** AWSLabsUser-4091-3903-5081  
+**Skills:** Debugged IAM `ec2:RunInstances` AccessDenied error on Security Groups. Resolved by selecting lab-compliant SG instead of default. Launched Free Tier EC2. Verified all health checks.  
+**Cost:** $0.00 — Terminated immediately post-verification  
+**Lesson:** Builder Labs enforce least-privilege IAM. Default resources blocked by design. Troubleshooting AccessDenied errors is a core cloud skill.
+
+![EC2 Terminated](builder-labs/ec2-terminated.png)
+**FinOps:** Instance terminated. Full lifecycle ownership demonstrated. Zero surprise bill risk.
 
 ### Builder Lab 1: First EC2 Instance
-`Status: Pending Apr 20`
+`Status: Successfully launched✅ Apr 20`
 
 **Will demonstrate:** Launching t2.micro, key pair config, termination for cost control
 
