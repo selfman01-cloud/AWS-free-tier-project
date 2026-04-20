@@ -29,7 +29,7 @@
 **Cost:** $0.00 — Terminated immediately post-verification  
 **Lesson:** Builder Labs enforce least-privilege IAM. Default resources blocked by design. Troubleshooting AccessDenied errors is a core cloud skill.
 
-![EC2 Terminated: 
+![EC2 Terminated: https://github.com/selfman01-cloud/AWS-free-tier-project/blob/main/IMG_2125.png?raw=true
 **FinOps:** Instance terminated. Full lifecycle ownership demonstrated. Zero surprise bill risk.
 
 ### Builder Lab 1: First EC2 Instance
