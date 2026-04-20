@@ -57,5 +57,20 @@
 
 **Certifications:**
 
+### AWS Skill Builder - Beginner Path
+**1. Getting Started with AWS Cloud Essentials** ✅ `Completed: Apr 19, 2026`  
+**Level:** Fundamental | **Duration:** 1h | **Rating:** 4.6/5  
+**Services covered:** Amazon S3, EC2, IAM basics  
+**Proof:** 
+
+**Key takeaways from this course:**
+1. **S3 basics:** Object storage for files, websites, backups. 11 9's durability.
+2. **Shared Responsibility:** AWS secures the cloud, you secure IN the cloud
+3. **Free Tier awareness:** 750hrs EC2, 5GB S3 — why my Cloud9 got blocked
+
+### AWS Certification - In Progress
+**Target: AWS Certified Cloud Practitioner (CLF-C02)** 🎯 `Exam: May 1, 2026`  
+**Status:** 2/12 modules | 87% average | Building in public from Lagos
+
 
 **Tags:** `aws` `cloud-practitioner` `nigeria` `100daysofcloud` `ec2` `lambda` `finops` `free-tier`
