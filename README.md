@@ -5,7 +5,7 @@
 ## 📊 Progress Tracker
 - [x] **Module 1:** Cloud Concepts - **88%** ✅ `Apr 19`
 - [x] **Module 2:** Compute in the cloud - **86%** ✅ `Apr 19`
-- [ ] **Module 3:** Lambda - `Starting Apr 20`
+- [x] **Module 3:** Lambda - `Apr 23'
 - [ ] **Builder Lab 1:** EC2 Launch - `Scheduled Apr 20`
 - [ ] **Module 4:** Storage - `Apr 21`
 - [ ] **Module 5:** VPC - `Apr 22`
